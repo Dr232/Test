@@ -1,3 +1,2 @@
 # Test
-This is a description.
-这是一个教程
+This is a test repository for Dr232 video.
